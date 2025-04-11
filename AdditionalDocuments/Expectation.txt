@@ -1,0 +1,31 @@
+I want to complete this assessment. Here is the assessment specification. We should create tasks and sub tasks to complate this, we will do it later, no need to do for now.
+
+I want to see every requirements as a task, don't skip any information even its simple, Here is and example;
+
+Assesment 1 part;
+
+"... Additionally, you should compile a report containing the Python code, screenshots of the output that demonstrate the solutions to the questions, and an evaluation of the produced results."
+
+Tasks and subtasks:
+
+-Create the structure of the report in md files
+--Check marking cretaria and define section titles
+--Add related simple python code snap. 
+--Add draft screenshot section like "[Partical_tests_results.png]"
+---add screenshots of the output that demonstrate the solutions to the questions
+---add screenshots of evaluation of the produced results
+
+some tasks are like instal anaconda, PyCharm, GitHub account etc. You list these and let me know to result to you. No need to do something for these kind of expectation, just tell me and I will change task status to completed.
+
+I neeed to select a problem to start, for defining a problem; Investigate "Section G: Reference" part and search in web by using perplexity to find other similar but original example of problem that utilise the concept of Neural Network with PSO. Show options to me and ask to select one of them. 
+
+Do this approach to similar expectation of me. Otherwise you can continue as you are the student who responsible from this assignment.
+
+You will do coding for this assessment. I have @AdditionalDocuments directory. In this directory you can see what we learn in each week in school. During the programming, I want you to come this folder, look for each week's file, and select proper code from here. Use as much as this code. Please try to don't use libraries, functions etc which we haven't use in our lessons if you don't have to. If you have to use, please add explanation more for this part. Add explanation during coding. Add these as tasks when I say create tasks, no need to do anything yet.
+
+Once you finished programming task I want you the change format of you code. I want to make it more similar to my style. You can see my style in COIT29225_Asg3.py in @AdditionalDocuments directory. Don't take any code from this, this is just to show how I divide my code to parts, how I add explanations etc. Even divided part will be different in your work. Just understand the formatting and chage your code format. Don't change, add or delete any line of working code. Just change comment lines, I don't want to explode the working code. Check again once you finish formatting. Add these as tasks when I say create tasks, no need to do anything yet.
+
+Marking creteria is our guide, we must stick on that always. And always check what we learn during 5 week, while we are doing something.
+
+Now I want you to check assessment specification, then read tutorials document for each week. Then we will continue.
+
